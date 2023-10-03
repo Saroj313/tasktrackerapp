@@ -1,0 +1,39 @@
+.container{
+    background-color: rgb(126, 224, 188);
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 150px;
+    width: 1200px;
+    height: 700px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+}
+#Crud{
+    margin-left: 450px;   
+    color: rgb(130, 141, 238);
+}
+.Action{
+    margin-left: 150px;
+}
+.title{
+    font-size: 25px;   
+}
+
+.description{
+    font-size: 25px;
+}
+.status{
+    font-size: 25px;
+}
+.Button{
+    box-shadow: 0 0 0 5px;
+    color: rgb(79, 108, 240);
+    cursor: pointer;
+}
+.Button:hover{
+    color: rgb(66, 183, 215);
+}
+.table{
+    margin-left: 150px;
+}
